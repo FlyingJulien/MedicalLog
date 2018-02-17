@@ -1,5 +1,5 @@
 # MedicalLog
-v 1.0
+v 1.1
 
 
 Cette app vous permet de suivre les actes que vous effectuez en tant que sage-femme.
@@ -13,8 +13,4 @@ Possibilité de préciser un pourcentage de rétrocession.
 
 Les tarifs des actes sont issus du site de la CCAM.
 
-
-Cette première version s'adresse plus particulièrement aux sage-femmes échographistes. D'autres actes seront intégrés par la suite.
-
-
-Pour toute demande ou question, prière d'envoyer un mail à : juliengeneste@hotmail.com
+Pour toute demande ou question, prière d'envoyer un mail à : actes.sagefemme@icloud.com
